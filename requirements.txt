@@ -1,0 +1,7 @@
+django
+djangorestframework
+django-filter
+requests
+pytelegrambotapi
+beautifulsoup4
+lxml
