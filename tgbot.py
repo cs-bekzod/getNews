@@ -1,7 +1,7 @@
 import telebot
 import requests
 
-BOT_TOKEN = '7501703426:AAFb7GRNIAoMHalspE0_SPGs3lIVQDV8BJQ'
+BOT_TOKEN = ''
 API_URL = 'http://127.0.0.1:8000/api/news/'  
 
 bot = telebot.TeleBot(BOT_TOKEN)
